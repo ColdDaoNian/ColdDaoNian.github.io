@@ -1,16 +1,16 @@
 # Site settings
-title: BY Blog
-SEOTitle: Mannix的博客 | BY Blog
+title: Mannix
+SEOTitle: Mannix的博客 | Mannix
 header-img: img/post-bg-desk.jpg
 email: 794450497@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Mannix的博客, Mannix, iOS, Apple, iPhone"
+description: "渗透测试，安全研究员"
+keyword: "Mannix的博客"
 url: "http://asura88.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Asura88/Asura88.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Mannix",
+        href: "http://Mannix.top"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "blog",
+        href: "http://blog.mannix.top"
     },{
         title: "Apple",
         href: "https://apple.com"
