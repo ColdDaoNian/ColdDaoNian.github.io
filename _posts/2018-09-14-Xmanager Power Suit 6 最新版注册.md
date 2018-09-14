@@ -8,7 +8,7 @@ Xmanger Power Suit 官方其实有两种 .exe 文件，一个是用于试用的�
 
 https://www.netsarang.com/products/xme_overview.html  
 
-第二步：将下载地址复制下来，并在 .exe 之前加上字母 r。  
+第二步：将下载地址复制下来，并在 `.exe` 之前加上字母 `r`。  
 
 比如我的下载地址是 https://cdn.netsarang.net/63b77b13/XmanagerPowerSuite-6.0.0008.exe  
 
@@ -112,4 +112,3 @@ https://github.com/DoubleLabyrinth/Xmanager-keygen/issues/2
 Xmanager Power Suit 6 最新版注册  
 
 https://tips.foair.me/post/how-to-get-latest-xmanager/
-
