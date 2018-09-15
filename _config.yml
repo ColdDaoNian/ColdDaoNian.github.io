@@ -99,8 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Mannix",
-        href: "http://Mannix.top"
+        title: "XssAv Safe 网址导航",
+        href: "http://www.xssav.com/"
+    },{
+        title: "Sec-News",
+        href: "http://wiki.ioin.in/"
     },{
         title: "Maya66",
         href: "http://maya66.net.cn/"
