@@ -95,13 +95,15 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：  
 
 ```txt
-https://cdn.netsarang.net/63b77b13/XmanagerPowerSuite-6.0.0008r.exe
-https://download.netsarang.com/63b77b13/XmanagerPowerSuite-6.0.0008r.exe
-https://download.netsarang.com/63b77b13/XshellPlus-6.0.0008r.exe
-https://cdn.netsarang.net/63b77b13/Xshell-6.0.0098r.exe
-https://cdn.netsarang.net/63b77b13/Xftp-6.0.0092r.exe
-https://cdn.netsarang.net/63b77b13/Xmanager-6.0.0092r.exe
-https://cdn.netsarang.net/63b77b13/Xlpd-6.0.0089r.exe
+https://cdn.netsarang.net/9e637115/XmanagerPowerSuite-6.0.0008r.exe
+
+https://cdn.netsarang.net/9e637115/XmanagerPowerSuite-6.0.0008r.exe
+https://download.netsarang.com/9e637115/XmanagerPowerSuite-6.0.0008r.exe
+https://download.netsarang.com/9e637115/XshellPlus-6.0.0008r.exe
+https://cdn.netsarang.net/9e637115/Xshell-6.0.0098r.exe
+https://cdn.netsarang.net/9e637115/Xftp-6.0.0092r.exe
+https://cdn.netsarang.net/9e637115/Xmanager-6.0.0092r.exe
+https://cdn.netsarang.net/9e637115/Xlpd-6.0.0089r.exe
 ```
 
 ## 参考链接 ##  
