@@ -62,8 +62,8 @@ http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downl
 
 ## 激活步骤 ##  
 
-- 1. Disconnect from the Internet.下载后第一时间加入下面的host条目，然后安装，启动后，输入key保平安...  
-- 2. Add these entries into your HOSTS src:#   
+- 1.Disconnect from the Internet.下载后第一时间加入下面的host条目，然后安装，启动后，输入key保平安...  
+- 2.Add these entries into your HOSTS src:#   
 
 ```txt    
 0.0.0.0        www.mindjet.com
