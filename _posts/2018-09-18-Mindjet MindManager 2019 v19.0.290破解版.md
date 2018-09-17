@@ -1,4 +1,72 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.290 中文破解版 #  
+# 思维导图 Mindjet MindManager 2019 v19.0.290 中文破解版 # 
+
+**更新：最新版本已经完美破解**  
+
+参考以下内容  
+
+```txt
+思维导图 Mindjet MindManager 2019 v19.0.290 中文破解版 公开下载！！！
+
+官网
+
+https://www.mindjet.com/
+
+下载地址
+
+32位：http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/32Bit/Mindjet MindManager 2019.msi
+
+64位：http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/64Bit/Mindjet MindManager 2019.msi
+
+破解补丁：http://u16784266.ctfile.net/fs/16784266-310551654
+
+（解压密码：www.carrotchou.blog）
+
+Mindjet MindManager 2019 19.0.290 Multilingual
+
+Download
+
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/32Bit/Mindjet MindManager 2019.msi
+
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/64Bit/Mindjet MindManager 2019.msi
+
+Crack for MindManager 2019 x86: https://www.upload.ee/
+
+sharecode: /files/8953854/MindManager.2019.x86.Crack.rar.html
+
+https://www.upload.ee/files/8953854/MindManager.2019.x86.Crack.rar.html
+
+https://www.upload.ee/download/8953854/3d25ffd95a3714266fd7/MindManager.2019.x86.Crack.rar
+
+Crack Mindjet MindManager 2019 v19.0.290:
+
+https://www.upload.ee
+
+/files/8954627/MindManager_x86.rar.html
+
+https://www.upload.ee/files/8954627/MindManager_x86.rar.html
+
+https://www.upload.ee/download/8954627/41f7657d052614267014/MindManager_x86.rar
+
+https://www.upload.ee
+
+/files/8954626/MindManager_x64.rar.html
+
+https://www.upload.ee/files/8954626/MindManager_x64.rar.html
+
+https://www.upload.ee/download/8954626/513a0af0e8df1426702d/MindManager_x64.rar
+
+Mindjet MindManager 2018 思维导图（19.0.290）中文破解版
+
+破解补丁：https://www.lanzous.com/i1wcm1i
+
+Mindjet MindManager 2019 v19.0.290 Win
+
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x86_Downloadly.ir.rar
+
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Downloadly.ir.rar
+
+Password: www.downloadly.ir
+```
 
 ![Snipaste_2018-09-17_15-38-43.png](https://whitecell.io/upload/attach/201809/151_BMEDJ2MXXPZ8CYC.png "Snipaste_2018-09-17_15-38-43.png")  
 
