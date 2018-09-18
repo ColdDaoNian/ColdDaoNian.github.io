@@ -1,11 +1,11 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.290 中文破解版 # 
+# 思维导图 Mindjet MindManager 2019 v19.0.293 中文破解版 公开下载！！！ # 
 
 **更新：最新版本已经完美破解**  
 
 参考以下内容  
 
 ```txt
-思维导图 Mindjet MindManager 2019 v19.0.290 中文破解版 公开下载！！！
+思维导图 Mindjet MindManager 2019 v19.0.293 中文破解版 公开下载！！！
 
 官网
 
@@ -13,62 +13,62 @@ https://www.mindjet.com/
 
 下载地址
 
-32位：http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/32Bit/Mindjet MindManager 2019.msi
+64位：
 
-64位：http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi
 
-破解补丁：http://u16784266.ctfile.net/fs/16784266-310551654
+32位：
+
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi
+
+破解补丁：
+
+http://u16784266.ctfile.net/fs/16784266-310660260
 
 （解压密码：www.carrotchou.blog）
 
-Mindjet MindManager 2019 19.0.290 Multilingual
+Mindjet MindManager 2019 19.0.293 Multilingual
 
 Download
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/32Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi
 
-Crack for MindManager 2019 x86: https://www.upload.ee/
-
-sharecode: /files/8953854/MindManager.2019.x86.Crack.rar.html
-
-https://www.upload.ee/files/8953854/MindManager.2019.x86.Crack.rar.html
-
-https://www.upload.ee/download/8953854/3d25ffd95a3714266fd7/MindManager.2019.x86.Crack.rar
-
-Crack Mindjet MindManager 2019 v19.0.290:
+Crack Mindjet MindManager 2019 v19.0.293:
 
 https://www.upload.ee
 
-/files/8954627/MindManager_x86.rar.html
+/files/8958271/MindManager_x64.rar.html
 
-https://www.upload.ee/files/8954627/MindManager_x86.rar.html
+https://www.upload.ee/files/8958271/MindManager_x64.rar.html
 
-https://www.upload.ee/download/8954627/41f7657d052614267014/MindManager_x86.rar
+https://www.upload.ee/download/8958271/164b5b12999e142787b7/MindManager_x64.rar
 
 https://www.upload.ee
 
-/files/8954626/MindManager_x64.rar.html
+/files/8958279/MindManager_x86.rar.html
 
-https://www.upload.ee/files/8954626/MindManager_x64.rar.html
+https://www.upload.ee/files/8958279/MindManager_x86.rar.html
 
-https://www.upload.ee/download/8954626/513a0af0e8df1426702d/MindManager_x64.rar
+https://www.upload.ee/download/8958279/154b97c158a31427879a/MindManager_x86.rar
 
-Mindjet MindManager 2018 思维导图（19.0.290）中文破解版
+Mindjet MindManager 2019 v19.0.293 Win/ 11.0.160 macOS
 
-破解补丁：https://www.lanzous.com/i1wcm1i
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.293_x64_Downloadly.ir.rar
 
-Mindjet MindManager 2019 v19.0.290 Win
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.293_x64_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x86_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Multilingual_Portable_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar
 
 Password: www.downloadly.ir
 ```
 
-![Snipaste_2018-09-17_15-38-43.png](https://whitecell.io/upload/attach/201809/151_BMEDJ2MXXPZ8CYC.png "Snipaste_2018-09-17_15-38-43.png")  
+![Snipaste_2018-09-18_20-31-03.png](https://whitecell.io/upload/attach/201809/151_5BZWC68TDC39ZKV.png "Snipaste_2018-09-18_20-31-03.png")  
+
+![Snipaste_2018-09-18_20-31-25.png](https://whitecell.io/upload/attach/201809/151_XU673JWACGA8XMC.png "Snipaste_2018-09-18_20-31-25.png")  
 
 加拿大 Corel 公司旗下著名思维导图软件 MindManager 更新到 2019 版本，2019 版本自带简体中文，无需汉化！Mindjet MindManager 2019 是一款多功能思维导图绘制软件，如同一个虚拟的白板，仅仅通过单一视图组织头脑风暴、捕捉想法、交流规划信息，有其他软件无法媲美的项目管理和商业规划高级功能。利用它可以创建思维导图和可视化框架、组织管理信息、推进商业项目，也可以用它制作学习计划和进度、展示各种信息等。MindManager 2019 Windows 版为您理清信息的来龙去脉并充分发挥其影响，强大效果前所未见，借此激发您的创意、指导您的行动、助推您的业务并决定您的成功。  
 
@@ -96,21 +96,19 @@ https://www.mindjet.com/
 
 ## 下载地址 ##  
 
-32位：`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/32Bit/Mindjet MindManager 2019.msi`  
+64位：  
 
-64位：`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_290/64Bit/Mindjet MindManager 2019.msi`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi`  
 
-破解补丁：`https://www.upload.ee/download/8953854/f84d5f8df1ce1425ee26/MindManager.2019.x86.Crack.rar`   
+32位：  
 
-```txt
-1. Put version.dll in program dir.
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi`  
 
-2. Use key to activate: MP19-999-AP98-6339-2558
+破解补丁：  
 
-For MindManager 2019 32bite only.
-```
+`http://u16784266.ctfile.net/fs/16784266-310660260`   
 
-![Snipaste_2018-09-17_15-38-43.png](https://whitecell.io/upload/attach/201809/151_BMEDJ2MXXPZ8CYC.png "Snipaste_2018-09-17_15-38-43.png")  
+（解压密码：www.carrotchou.blog）  
 
 ## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
 
@@ -120,11 +118,17 @@ https://www.mindjet.com/
 
 ## 下载地址 ##  
 
-32位：`http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_32bit_18.2.109.exe`  
+64位：  
 
-64位：`http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_64bit_18.2.109.exe`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_64bit_18.2.109.exe`  
 
-不可思议的code：`MP18-777-DPBE-748D-F98E`  
+32位：  
+
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_32bit_18.2.109.exe`  
+
+不可思议的code：  
+
+`MP18-777-DPBE-748D-F98E`  
 
 Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS  
 
@@ -136,13 +140,18 @@ http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2018_18.1.155_Multil
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar  
 
-试用版：`http://download.mindjet.com/Mac/Mindjet_MindManager_Mac_11.1.160.dmg`  
+试用版： 
 
-不可思议的code：AP11-213-2P5D-F6EA-B4C5  
+`http://download.mindjet.com/Mac/Mindjet_MindManager_Mac_11.1.160.dmg`  
+
+不可思议的code：  
+
+`AP11-213-2P5D-F6EA-B4C5`  
 
 ## 激活步骤 ##  
 
 - 1.Disconnect from the Internet.下载后第一时间加入下面的host条目，然后安装，启动后，输入key保平安...  
+
 - 2.Add these entries into your HOSTS src:#   
 
 ```txt    
