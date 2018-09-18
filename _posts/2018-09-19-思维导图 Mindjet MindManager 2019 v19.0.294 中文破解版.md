@@ -1,11 +1,11 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.293 中文破解版 公开下载！！！ # 
+# 思维导图 Mindjet MindManager 2019 v19.0.294 中文破解版 公开下载！！！ # 
 
 **更新：最新版本已经完美破解**  
 
 参考以下内容  
 
 ```txt
-思维导图 Mindjet MindManager 2019 v19.0.293 中文破解版 公开下载！！！
+思维导图 Mindjet MindManager 2019 v19.0.294 中文破解版 公开下载！！！
 
 官网
 
@@ -15,25 +15,19 @@ https://www.mindjet.com/
 
 64位：
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/64Bit/Mindjet MindManager 2019.msi
 
 32位：
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/32Bit/Mindjet MindManager 2019.msi
 
-破解补丁：
-
-http://u16784266.ctfile.net/fs/16784266-310660260
-
-（解压密码：www.carrotchou.blog）
-
-Mindjet MindManager 2019 19.0.293 Multilingual
+Mindjet MindManager 2019 19.0.294 Multilingual
 
 Download
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/64Bit/Mindjet MindManager 2019.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/32Bit/Mindjet MindManager 2019.msi
 
 Crack Mindjet MindManager 2019 v19.0.293:
 
@@ -98,17 +92,11 @@ https://www.mindjet.com/
 
 64位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/64Bit/Mindjet MindManager 2019.msi`  
 
 32位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi`  
-
-破解补丁：  
-
-`http://u16784266.ctfile.net/fs/16784266-310660260`   
-
-（解压密码：www.carrotchou.blog）  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/32Bit/Mindjet MindManager 2019.msi`   
 
 ## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
 
