@@ -1,4 +1,4 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.295 中文破解版 # 
+# 思维导图 Mindjet MindManager 2019 v19.0.296 中文破解版 # 
 
 **更新：最新版本已经完美破解**  
 
@@ -7,9 +7,19 @@
 ```txt
 Mindjet MindManager 2019
 
-Mindjet MindManager 2019 19.0.295 Multilingual
+Mindjet MindManager 2019 19.0.296 Multilingual
 
 Download
+
+Mindjet MindManager 2019 19.0.296 Multilingual
+
+Mindjet MindManager 2019 19.0.296 Multilingual_64.msi
+
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/64Bit/Mindjet MindManager 2019.msi
+
+Mindjet MindManager 2019 19.0.296 Multilingual_32.msi
+
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/32Bit/Mindjet MindManager 2019.msi
 
 Mindjet MindManager 2019 19.0.295 Multilingual
 
@@ -77,11 +87,11 @@ Use your firewall to block the app
 
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
-Mindjet MindManager 2019 v19.0.293 Win/ 11.0.160 macOS
+Mindjet MindManager 2019 v19.0.295 Win/ 11.0.160 macOS
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.293_x64_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.295_Multilingual_x64_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.293_x86_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.295_Multilingual_x86_Downloadly.ir.rar
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Multilingual_Portable_Downloadly.ir.rar
 
@@ -122,11 +132,11 @@ https://www.mindjet.com/
 
 64位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_295/64Bit/Mindjet MindManager 2019.msi`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/64Bit/Mindjet MindManager 2019.msi`  
 
 32位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_295/32Bit/Mindjet MindManager 2019.msi`   
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/32Bit/Mindjet MindManager 2019.msi`   
 
 ## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
 
