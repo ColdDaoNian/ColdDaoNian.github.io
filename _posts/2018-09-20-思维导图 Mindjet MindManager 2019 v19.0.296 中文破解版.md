@@ -31,37 +31,25 @@ Mindjet MindManager 2019 19.0.295 Multilingual_32.msi
 
 http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_295/32Bit/Mindjet MindManager 2019.msi
 
-Mindjet MindManager 2019 19.0.294 Multilingual
-
-Mindjet MindManager 2019 19.0.294 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.294 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_294/32Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.293 Multilingual
-
-Mindjet MindManager 2019 19.0.293 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.293 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_293/32Bit/Mindjet MindManager 2019.msi
-
-Crack Mindjet MindManager 2019 v19.0.293:
-
-https://www.upload.ee/files/8958271/MindManager_x64.rar.html
-
-https://www.upload.ee/files/8958279/MindManager_x86.rar.html
-
 Mindjet.MindManager.2019.19.0.29x-x86+x64-Patch Base on unknow's patched file
 
-https://www.upload.ee/files/8961194/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
+https://www.upload.ee/files/8961584/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
 
-Mindjet MindManager 2019 v19.0.293 with Keygen
+Crack Mindjet MindManager 2019 v19.0.295:
+
+https://www.upload.ee﻿/files/8961794/MindManager_x64.rar.html
+
+https://www.upload.ee/files/8961810/MindManager_x86.rar.html
+
+Mindjet MindManager 2019 v19.0.295 with Keygen
+
+https://www.upload.ee/files/8963293/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
+
+Install Notes for Crack
+
+Copy the cracked file to install folder
+Register using privided key
+Use your firewall to block the app
 
 https://multifilemirror.com/v21vsy8fslbl/MindManager_x64.rar.html
 
@@ -79,12 +67,6 @@ https://www.datafilehost.com/d/102d63a4
 
 https://www.upload.ee/files/8958377/MindManager_x86.rar.html
 
-Install Notes for Crack
-
-Copy the cracked file to install folder
-Register using privided key
-Use your firewall to block the app
-
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
 Mindjet MindManager 2019 v19.0.295 Win/ 11.0.160 macOS
@@ -98,6 +80,10 @@ http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_M
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar
 
 Password: www.downloadly.ir
+
+思维导图 Mindjet MindManager 2019.19.0.295 中文特别版
+
+链接：https://share.weiyun.com/5bozK5v 密码：busa4s
 ```
 
 ![Snipaste_2018-09-18_20-31-03.png](https://whitecell.io/upload/attach/201809/151_5BZWC68TDC39ZKV.png "Snipaste_2018-09-18_20-31-03.png")  
