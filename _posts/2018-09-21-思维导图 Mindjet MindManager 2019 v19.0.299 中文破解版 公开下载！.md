@@ -7,11 +7,7 @@
 ```txt
 Mindjet MindManager 2019
 
-<<<<<<< HEAD:_posts/2018-09-20-思维导图 Mindjet MindManager 2019 v19.0.299 中文破解版 公开下载！.md
 Mindjet MindManager 2019 19.0.299 Multilingual
-=======
-Mindjet MindManager 2019 19.0.298 Multilingual
->>>>>>> d4facbaeaeae3062356844223894c332be572ea7:_posts/2018-09-20-思维导图 Mindjet MindManager 2019 v19.0.298 中文破解版.md
 
 Download
 
@@ -110,9 +106,9 @@ Password: www.downloadly.ir
 链接：https://share.weiyun.com/5bozK5v 密码：busa4s
 ```
 
-![Snipaste_2018-09-18_20-31-03.png](https://whitecell.io/upload/attach/201809/151_5BZWC68TDC39ZKV.png "Snipaste_2018-09-18_20-31-03.png")  
+![Snipaste_2018-09-21_00-22-53.png](https://www.whitecell.io/upload/attach/201809/_FR2G26JQTXVMRJ4.png "Snipaste_2018-09-21_00-22-53.png")  
 
-![Snipaste_2018-09-18_20-31-25.png](https://whitecell.io/upload/attach/201809/151_XU673JWACGA8XMC.png "Snipaste_2018-09-18_20-31-25.png")  
+![Snipaste_2018-09-21_00-23-22.png](https://www.whitecell.io/upload/attach/201809/_M4VUDGNDYQXEATR.png "Snipaste_2018-09-21_00-23-22.png")  
 
 加拿大 Corel 公司旗下著名思维导图软件 MindManager 更新到 2019 版本，2019 版本自带简体中文，无需汉化！Mindjet MindManager 2019 是一款多功能思维导图绘制软件，如同一个虚拟的白板，仅仅通过单一视图组织头脑风暴、捕捉想法、交流规划信息，有其他软件无法媲美的项目管理和商业规划高级功能。利用它可以创建思维导图和可视化框架、组织管理信息、推进商业项目，也可以用它制作学习计划和进度、展示各种信息等。MindManager 2019 Windows 版为您理清信息的来龙去脉并充分发挥其影响，强大效果前所未见，借此激发您的创意、指导您的行动、助推您的业务并决定您的成功。  
 
@@ -152,7 +148,15 @@ https://www.mindjet.com/
 
 `https://www.upload.ee/files/8966039/2019.rar.html`  
 
+备用链接：  
+
+`https://drive.google.com/file/d/1J2ekGNGVTQGQ9L8ud1KRb1v7k04bOLiX/view?usp=sharing`  
+
 `https://carrot.ctfile.com/dir/11269771-29895399-245f90/`  
+
+![Snipaste_2018-09-21_00-22-53.png](https://www.whitecell.io/upload/attach/201809/_FR2G26JQTXVMRJ4.png "Snipaste_2018-09-21_00-22-53.png")  
+
+![Snipaste_2018-09-21_00-23-22.png](https://www.whitecell.io/upload/attach/201809/_M4VUDGNDYQXEATR.png "Snipaste_2018-09-21_00-23-22.png")  
 
 ## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
 
