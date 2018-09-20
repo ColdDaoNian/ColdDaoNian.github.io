@@ -7,7 +7,11 @@
 ```txt
 Mindjet MindManager 2019
 
+<<<<<<< HEAD:_posts/2018-09-20-思维导图 Mindjet MindManager 2019 v19.0.299 中文破解版 公开下载！.md
 Mindjet MindManager 2019 19.0.299 Multilingual
+=======
+Mindjet MindManager 2019 19.0.298 Multilingual
+>>>>>>> d4facbaeaeae3062356844223894c332be572ea7:_posts/2018-09-20-思维导图 Mindjet MindManager 2019 v19.0.298 中文破解版.md
 
 Download
 
