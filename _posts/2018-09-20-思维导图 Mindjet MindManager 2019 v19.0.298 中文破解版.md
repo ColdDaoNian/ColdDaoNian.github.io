@@ -7,7 +7,7 @@
 ```txt
 Mindjet MindManager 2019
 
-Mindjet MindManager 2019 19.0.296 Multilingual
+Mindjet MindManager 2019 19.0.298 Multilingual
 
 Download
 
