@@ -99,11 +99,13 @@ https://www.upload.ee/files/8958377/MindManager_x86.rar.html
 
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
-Mindjet MindManager 2019 v19.0.295 Win/ 11.0.160 macOS
+Mindjet MindManager 2019 v19.0.300 Win/ 11.0.160 macOS
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.295_Multilingual_x64_Downloadly.ir.rar
+https://downloadly.ir/software/engineering-specialized/mindjet-mindmanager/
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.295_Multilingual_x86_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.300_Multilingual_x64_Downloadly.ir.rar
+
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.300_Multilingual_x86_Downloadly.ir.rar
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Multilingual_Portable_Downloadly.ir.rar
 
