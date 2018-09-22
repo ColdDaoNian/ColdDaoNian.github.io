@@ -1,4 +1,4 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.300 中文破解版 公开下载！ # 
+# 思维导图 Mindjet MindManager 2019 v19.0.302 中文破解版 公开下载！ # 
 
 **更新：最新版本已经完美破解**  
 
@@ -7,95 +7,35 @@
 ```txt
 Mindjet MindManager 2019
 
-Mindjet MindManager 2019 19.0.300 Multilingual
+Mindjet MindManager 2019 19.0.302 Multilingual
 
 Download
 
-Mindjet MindManager 2019 19.0.300 Multilingual
+Mindjet MindManager 2019 19.0.302 Multilingual
 
-Mindjet MindManager 2019 19.0.300 Multilingual_64.msi
+Mindjet MindManager 2019 19.0.302 Multilingual.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_300/64Bit/Mindjet MindManager 2019.msi
+Mindjet MindManager 2019.msi
 
-Mindjet MindManager 2019 19.0.300 Multilingual_32.msi
+Mindjet MindManager 2019 19.0.302 Multilingual_64.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_300/32Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_302/64Bit/Mindjet MindManager 2019.msi
 
-Mindjet MindManager 2019 19.0.299 Multilingual
+https://www.upload.ee/files/8971053/mindmanager.2019.19.0.x-patch.rar.html
 
-Mindjet MindManager 2019 19.0.299 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_299/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.299 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_299/32Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.298 Multilingual
-
-Mindjet MindManager 2019 19.0.298 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_298/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.298 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_298/32Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.296 Multilingual
-
-Mindjet MindManager 2019 19.0.296 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.296 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_296/32Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.295 Multilingual
-
-Mindjet MindManager 2019 19.0.295 Multilingual_64.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_295/64Bit/Mindjet MindManager 2019.msi
-
-Mindjet MindManager 2019 19.0.295 Multilingual_32.msi
-
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_295/32Bit/Mindjet MindManager 2019.msi
+Mindjet.MindManager.2019.19.0.29x-x86+x64-Patch
 
 Mindjet.MindManager.2019.19.0.29x-x86+x64-Patch Base on unknow's patched file
 
 https://www.upload.ee/files/8961584/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
 
-Crack Mindjet MindManager 2019 v19.0.295:
+MindManager 2019 19.0.x Patch (x64 / x86)
 
-https://www.upload.ee/files/8961794/MindManager_x64.rar.html
-
-https://www.upload.ee/files/8961810/MindManager_x86.rar.html
+https://www.upload.ee/files/8967892/mindmanager.2019.19.0.x.patch.rar.html
 
 Mindjet MindManager 2019 v19.0.300 with Keygen
 
 https://www.upload.ee/files/8963293/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
-
-Install Notes for Crack
-
-Copy the cracked file to install folder
-Register using privided key
-Use your firewall to block the app
-
-https://multifilemirror.com/v21vsy8fslbl/MindManager_x64.rar.html
-
-https://www116.zippyshare.com/v/EjBxFe3e/file.html
-
-https://www.datafilehost.com/d/0c1bb328
-
-https://www.upload.ee/files/8958373/MindManager_x64.rar.html
-
-https://multifilemirror.com/fqn0seyk8c0e/MindManager_x86.rar.html
-
-https://www96.zippyshare.com/v/cIYcfeFs/file.html
-
-https://www.datafilehost.com/d/102d63a4
-
-https://www.upload.ee/files/8958377/MindManager_x86.rar.html
 
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
@@ -105,17 +45,9 @@ https://downloadly.ir/software/engineering-specialized/mindjet-mindmanager/
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.300_Multilingual_x64_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.300_Multilingual_x86_Downloadly.ir.rar
-
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.290_x64_Multilingual_Portable_Downloadly.ir.rar
-
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar
 
 Password: www.downloadly.ir
-
-思维导图 Mindjet MindManager 2019.19.0.295 中文特别版
-
-链接：https://share.weiyun.com/5bozK5v 密码：busa4s
 ```
 
 ![Snipaste_2018-09-21_00-22-53.png](https://www.whitecell.io/upload/attach/201809/_FR2G26JQTXVMRJ4.png "Snipaste_2018-09-21_00-22-53.png")  
@@ -150,11 +82,7 @@ https://www.mindjet.com/
 
 64位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_300/64Bit/Mindjet MindManager 2019.msi`  
-
-32位：  
-
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_300/32Bit/Mindjet MindManager 2019.msi`   
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_302/64Bit/Mindjet MindManager 2019.msi`  
 
 破解补丁：  
 
@@ -182,10 +110,6 @@ https://www.mindjet.com/
 
 `http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_64bit_18.2.109.exe`  
 
-32位：  
-
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2018.1/MindManager_32bit_18.2.109.exe`  
-
 不可思议的code：  
 
 `MP18-777-DPBE-748D-F98E`  
@@ -193,10 +117,6 @@ https://www.mindjet.com/
 Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS  
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2018_v18.2.110_x64_Downloadly.ir.rar  
-
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2018_v18.2.110_x86_Downloadly.ir.rar  
-
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2018_18.1.155_Multilingual_x64_Portable_Downloadly.ir.rar  
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar  
 
