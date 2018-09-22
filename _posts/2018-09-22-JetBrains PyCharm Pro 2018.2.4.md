@@ -1,9 +1,6 @@
-# JetBrains PyCharm Pro 2018.2.3 Win/Linux/macOS #  
+# JetBrains PyCharm Pro 2018.2.4 #  
 
-JetBrains PyCharm Pro 2018.2.3 Win/Linux/macOS  
-
-```txt
-JetBrains PyCharm Pro 2018.2.3
+JetBrains PyCharm Pro 2018.2.4  
 
 https://www.jetbrains.com/
 
@@ -11,27 +8,27 @@ https://www.jetbrains.com/pycharm/
 
 https://www.jetbrains.com/pycharm/download/
 
-Version: 2018.2.3
-Build: 182.4323.49
-Released: September 6, 2018
+Version: 2018.2.4  
+Build: 182.4505.26  
+Released: September 20, 2018  
 
 Windows
 
 Professional
 
-https://download.jetbrains.com/python/pycharm-professional-2018.2.3.exe
+https://download.jetbrains.com/python/pycharm-professional-2018.2.4.exe
 
 macOS
 
 Professional
 
-https://download.jetbrains.com/python/pycharm-professional-2018.2.3.dmg
+https://download.jetbrains.com/python/pycharm-professional-2018.2.4.dmg
 
 Linux
 
 Professional
 
-https://download.jetbrains.com/python/pycharm-professional-2018.2.3.tar.gz
+https://download.jetbrains.com/python/pycharm-professional-2018.2.4.tar.gz
 
 https://plus.google.com/+Rover12421
 
@@ -43,19 +40,19 @@ https://rover12421.com/2015/04/07/jetbrains-product-patch-or-keygen.html
 
 Jetbrains Product Patch or Keygen
 
-Jetbrains's Product Patch or Keygen.
-Crack by Rover12421.
-https://www.rover12421.com
-Please support genuine(https://www.jetbrains.com).
+Jetbrains's Product Patch or Keygen.  
+Crack by Rover12421.  
+https://www.rover12421.com  
+Please support genuine(https://www.jetbrains.com).  
 
-Please select product:
-1. RubyMine
-2. PyCharm
-3. WebStorm
-4. PhpStorm
-5. AppCode
-6. Clion
-7. Idea
+Please select product:  
+1. RubyMine  
+2. PyCharm  
+3. WebStorm  
+4. PhpStorm  
+5. AppCode  
+6. Clion  
+7. Idea  
 
 https://pan.baidu.com/s/1hq0fKck
 
@@ -63,8 +60,8 @@ https://rover12421.com/categories/jetbrains/
 
 JetbrainsCrack 3.1
 
-Support jb 2018.2.1+
-Fix key no save
+Support jb 2018.2.1+  
+Fix key no save  
 
 Download JetbrainsCrack-3.1-release-enc.jar
 
@@ -76,12 +73,12 @@ JetBrains PyCharm Pro 2018.2.1+激活破解除去黄色警告框
 
 https://www.imsxm.com/2018/07/idea-2018-1-5-crack-patcher.html
 
-最近更新了JetBrains PyCharm Pro 2018.2.1+之后，使用之前的授权服务器(http://idea.imsxm.com)会提示Outdated License Server Detected，大意就是下个版本的PyCharm会更换授权服务器的算法，之前破解的算法会失效。
+最近更新了JetBrains PyCharm Pro 2018.2.1+之后，使用之前的授权服务器  (http://idea.imsxm.com)会提示Outdated License Server Detected，大意就是下个版本的PyCharm会更换授权服务器的算法，之前破解的算法会失效。  
 
-Outdated License Server Detected
-Your license ticket is obtained from an outdated version of the license server.
-To keep your product licensed, the license server requires an immediate update to the latest version.
-Read full details, and pass this information to the server administrator on your side.
+Outdated License Server Detected  
+Your license ticket is obtained from an outdated version of the license server.  
+To keep your product licensed, the license server requires an immediate update to the latest   version.  
+Read full details, and pass this information to the server administrator on your side.  
 
 最近Rover12421大神放出了最新的 通过javaagent代理方式的激活程序，下来给大家一个详细的教程。
 
@@ -95,19 +92,19 @@ https://rover12421.com/2015/04/07/jetbrains-product-patch-or-keygen.html
 
 Jetbrains Product Patch or Keygen
 
-Jetbrains's Product Patch or Keygen.
-Crack by Rover12421.
-https://www.rover12421.com
-Please support genuine(https://www.jetbrains.com).
+Jetbrains's Product Patch or Keygen.  
+Crack by Rover12421.  
+https://www.rover12421.com  
+Please support genuine(https://www.jetbrains.com).  
 
-Please select product:
-1. RubyMine
-2. PyCharm
-3. WebStorm
-4. PhpStorm
-5. AppCode
-6. Clion
-7. Idea
+Please select product:  
+1. RubyMine  
+2. PyCharm  
+3. WebStorm  
+4. PhpStorm  
+5. AppCode  
+6. Clion  
+7. Idea  
 
 https://pan.baidu.com/s/1hq0fKck
 
@@ -115,8 +112,8 @@ https://rover12421.com/categories/jetbrains/
 
 JetbrainsCrack 3.1
 
-Support jb 2018.2.1+
-Fix key no save
+Support jb 2018.2.1+  
+Fix key no save  
 
 Download JetbrainsCrack-3.1-release-enc.jar
 
@@ -138,13 +135,13 @@ https://www.imsxm.com/wp-content/uploads/2018/07/JetbrainsCrack-3.1.zip
 
 用补丁代替JetBrains PyCharm Pro 2018.2.1+的验证
 
-1.打开JetBrains PyCharm Pro 2018.2.1+的JVM配置文件，一般会在C:\Program Files\JetBrains\PyCharm 2018.2.3\bin下的pycharm64.exe.vmoptions和pycharm.exe.vmoptions文件,如果找不到可以在JetBrains PyCharm Pro 2018.2.1+中点击”Configure” -> “Edit Custom VM Options …”自动打开
+1.打开JetBrains PyCharm Pro 2018.2.1+的JVM配置文件，一般会在C:\Program Files\JetBrains\PyCharm 2018.2.4\bin下的pycharm64.exe.vmoptions和pycharm.exe.vmoptions文件,如果找不到可以在JetBrains PyCharm Pro 2018.2.1+中点击”Configure” -> “Edit Custom VM Options …”自动打开
 
 2.在该文件最后添加一句:-javaagent:{JetbrainsCrack-3.1-release-enc.jar补丁的路径} 
 
-C:\Program Files\JetBrains\PyCharm 2018.2.3
+C:\Program Files\JetBrains\PyCharm 2018.2.4
 
-C:\Program Files\JetBrains\PyCharm 2018.2.3\bin
+C:\Program Files\JetBrains\PyCharm 2018.2.4\bin
 
 /Applications/PyCharm.app/Contents/
 
@@ -152,11 +149,11 @@ C:\Program Files\JetBrains\PyCharm 2018.2.3\bin
 
 例如:
 
-【Windows】
-C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\pycharm64.exe.vmoptions和C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\pycharm.exe.vmoptions分别添加：
--javaagent:C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\JetbrainsCrack-3.1-release-enc.jar
+【Windows】  
+C:\Program Files\JetBrains\PyCharm 2018.2.4\bin\pycharm64.exe.vmoptions和C:\Program Files\JetBrains\PyCharm 2018.2.4\bin\pycharm.exe.vmoptions分别添加：
+-javaagent:C:\Program Files\JetBrains\PyCharm 2018.2.4\bin\JetbrainsCrack-3.1-release-enc.jar
 
-【macOS】
+【macOS】  
 /Applications/PyCharm.app/Contents/bin/pycharm.vmoptions添加
 -javaagent:/Applications/PyCharm.app/Contents/bin/JetbrainsCrack-3.1-release-enc.jar
 
@@ -172,6 +169,7 @@ C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\pycharm64.exe.vmoptions和C:\Pro
 
 格式如下
 
+```txt
 {
 "licenseId":"Mannix",//随便填
 "licenseeName":"Mannix",//你的名字
@@ -200,18 +198,19 @@ C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\pycharm64.exe.vmoptions和C:\Pro
 "gracePeriodDays":7,
 "autoProlongated":false
 }
+```
 
 好了教程到此结束，再见了各位。
 
-JetBrains PyCharm Pro 2018.2.3 Win/Linux/macOS
+JetBrains PyCharm Pro 2018.2.4 Win/Linux/macOS
 
 https://downloadly.ir/software/programming/jetbrains-pycharm-1/
 
-http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Pro_2018.2.3_Windows_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Professional_2018.2.4_Windows_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Pro_2018.2.3_macOS_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Professional_2018.2.4_macOS_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Pro_2018.2.3_Linux_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/JetBrains_PyCharm_Professional_2018.2.4_Linux_Downloadly.ir.rar
 
 http://dl.downloadly.ir/Files/Software2/Jetbrains_2018.2_All_IDE_Crack_Rover_v3.10_Build_2018-08-12_Downloadly.ir.rar
 
@@ -231,24 +230,25 @@ Download 百度云
 0. {Product} - product (clion, idea, etc.)
 {InstallDir} - the path to the installed product (CLion, IDEA, and so on)
 
-C:\Program Files\JetBrains\PyCharm 2018.2.3
+C:\Program Files\JetBrains\PyCharm 2018.2.4
 
 1. Copy JetbrainsCrack3.1_Downloadly.ir.jar to $ {InstallDir} / bin
 
-C:\Program Files\JetBrains\PyCharm 2018.2.3\bin
+C:\Program Files\JetBrains\PyCharm 2018.2.4\bin
 
 2. Edit the file "$ {Product} .vmoptions" (or "$ {Product} $ {64} .vmoptions") in the folder {InstallDir} / bin:
 
-C:\Program Files\JetBrains\PyCharm 2018.2.3\bin
+C:\Program Files\JetBrains\PyCharm 2018.2.4\bin
 
 2.1 Add at the end of the file (from a new line): -javaagent: {InstallDir} /bin/JetbrainsCrack3.1_Downloadly.ir.jar
-for example: -javaagent:C:\Program Files\JetBrains\PyCharm 2018.2.3\bin\JetbrainsCrack-3.1-release-enc.jar
+for example: -javaagent:C:\Program Files\JetBrains\PyCharm 2018.2.4\bin\JetbrainsCrack-3.1-release-enc.jar
 Note: "-javaagent:C:\Program Files\..." - without space!
 
 3. Run the product.
 
 4. Enter key
 
+```txt
 {"licenseId":"ThisCrackLicenseId",
 "licenseeName":"Downloadly",
 "assigneeName":"Downloadly",
@@ -275,11 +275,11 @@ Note: "-javaagent:C:\Program Files\..." - without space!
 "hash":"2911276/0",
 "gracePeriodDays":7,
 "autoProlongated":false}
+```
 
-5. If show error msg : "Error opening zip file or JAR manifest missing : JetbrainsCrack3.1_Downloadly.ir.jar"
-please modify the jar file path to absolute path in "bin/*[idea|clion|...][64].vmoptions" file.
+5. If show error msg : "Error opening zip file or JAR manifest missing :   JetbrainsCrack3.1_Downloadly.ir.jar"  
+please modify the jar file path to absolute path in "bin/*[idea|clion|...][64].vmoptions" file.  
 
 =================
 
 www.downloadly.ir
-```
