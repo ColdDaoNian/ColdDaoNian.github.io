@@ -1,6 +1,24 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.304 中文破解版 # 
+# 思维导图 Mindjet MindManager 2019 v19.0.304 中文破解版【附注册码，支持后续更新】 # 
 
 **更新：最新版本已经完美破解**  
+
+最新注册破解版方法  
+
+```txt
+激活方式一：注册码：MP19-886-7P66-6533-9F67
+
+激活方式二：https://www.lanzous.com/i1xtjmj
+
+激活方式一：注册码：MP19-886-7P66-6533-9F67
+
+激活方式二：.reg注册文件+自动设置中文
+
+https://mopiaoyao.ctfile.com/fs/4187640-311475987
+
+https://www.lanzous.com/i1xo8ta
+
+http://cdn.laomo.me/down/MindManager2019_reg_cn.zip
+```
 
 参考以下内容  
 
