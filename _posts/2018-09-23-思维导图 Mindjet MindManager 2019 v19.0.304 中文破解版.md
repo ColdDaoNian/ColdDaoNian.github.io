@@ -1,4 +1,4 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.303 中文破解版 公开下载！ # 
+# 思维导图 Mindjet MindManager 2019 v19.0.304 中文破解版 # 
 
 **更新：最新版本已经完美破解**  
 
@@ -7,19 +7,19 @@
 ```txt
 Mindjet MindManager 2019
 
-Mindjet MindManager 2019 19.0.303 Multilingual
+Mindjet MindManager 2019 19.0.304 Multilingual
 
 Download
 
-Mindjet MindManager 2019 19.0.303 Multilingual
+Mindjet MindManager 2019 19.0.304 Multilingual
 
-Mindjet MindManager 2019 19.0.303 Multilingual.msi
+Mindjet MindManager 2019 19.0.304 Multilingual.msi
 
 Mindjet MindManager 2019.msi
 
-Mindjet MindManager 2019 19.0.303 Multilingual_64.msi
+Mindjet MindManager 2019 19.0.304 Multilingual_64.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_303/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_304/64Bit/Mindjet MindManager 2019.msi
 
 https://www.upload.ee/files/8971053/mindmanager.2019.19.0.x-patch.rar.html
 
@@ -82,7 +82,7 @@ https://www.mindjet.com/
 
 64位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_303/64Bit/Mindjet MindManager 2019.msi`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_304/64Bit/Mindjet MindManager 2019.msi`  
 
 破解补丁：  
 
