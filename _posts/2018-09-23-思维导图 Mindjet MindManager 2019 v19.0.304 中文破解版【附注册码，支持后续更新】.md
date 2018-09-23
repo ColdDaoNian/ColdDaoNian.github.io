@@ -2,7 +2,7 @@
 
 **更新：最新版本已经完美破解**  
 
-最新注册破解版方法  
+最新注册破解方法  
 
 ```txt
 激活方式一：注册码：MP19-886-7P66-6533-9F67
@@ -18,6 +18,22 @@ https://mopiaoyao.ctfile.com/fs/4187640-311475987
 https://www.lanzous.com/i1xo8ta
 
 http://cdn.laomo.me/down/MindManager2019_reg_cn.zip
+```
+
+reg注册文件+自动设置中文  
+
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Mindjet\MindManager\19\Settings]
+"BrowserHomePage"="Mannix.top"
+"ResourceLanguage"="ChineseSimplified"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Mindjet\MindManager\19\Registration]
+"LicenseKey"="MP19-886-7P66-6533-9F67"
+
+[HKEY_CURRENT_USER\Software\Mindjet\MindManager\19\Registration]
+"LicenseKey"="MP19-886-7P66-6533-9F67"
 ```
 
 参考以下内容  
@@ -57,20 +73,18 @@ https://www.upload.ee/files/8963293/Mindjet.MindManager.2019.19.0.29x-x86_x64-Pa
 
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
-Mindjet MindManager 2019 v19.0.301 Win/ 11.0.160 macOS
+Mindjet MindManager 2019 v19.0.304 Win/ 11.0.160 macOS
 
-https://downloadly.ir/software/engineering-specialized/mindjet-mindmanager/
-
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.301_Multilingual_x64_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.304_Multilingual_x64_Downloadly.ir.rar
 
 http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar
 
 Password: www.downloadly.ir
 ```
 
-![Snipaste_2018-09-21_00-22-53.png](https://www.whitecell.io/upload/attach/201809/_FR2G26JQTXVMRJ4.png "Snipaste_2018-09-21_00-22-53.png")  
+![Snipaste_2018-09-23_15-46-13.png](https://whitecell.io/upload/attach/201809/151_NGMU3W736596T8N.png "Snipaste_2018-09-23_15-46-13.png")  
 
-![Snipaste_2018-09-21_00-23-22.png](https://www.whitecell.io/upload/attach/201809/_M4VUDGNDYQXEATR.png "Snipaste_2018-09-21_00-23-22.png")  
+![Snipaste_2018-09-23_15-46-23.png](https://whitecell.io/upload/attach/201809/151_JQMWJNPVWK4XN35.png "Snipaste_2018-09-23_15-46-23.png")  
 
 加拿大 Corel 公司旗下著名思维导图软件 MindManager 更新到 2019 版本，2019 版本自带简体中文，无需汉化！Mindjet MindManager 2019 是一款多功能思维导图绘制软件，如同一个虚拟的白板，仅仅通过单一视图组织头脑风暴、捕捉想法、交流规划信息，有其他软件无法媲美的项目管理和商业规划高级功能。利用它可以创建思维导图和可视化框架、组织管理信息、推进商业项目，也可以用它制作学习计划和进度、展示各种信息等。MindManager 2019 Windows 版为您理清信息的来龙去脉并充分发挥其影响，强大效果前所未见，借此激发您的创意、指导您的行动、助推您的业务并决定您的成功。  
 
@@ -112,9 +126,9 @@ https://www.mindjet.com/
 
 `https://carrot.ctfile.com/dir/11269771-29895399-245f90/`  
 
-![Snipaste_2018-09-21_00-22-53.png](https://www.whitecell.io/upload/attach/201809/_FR2G26JQTXVMRJ4.png "Snipaste_2018-09-21_00-22-53.png")  
+![Snipaste_2018-09-23_15-46-13.png](https://whitecell.io/upload/attach/201809/151_NGMU3W736596T8N.png "Snipaste_2018-09-23_15-46-13.png")  
 
-![Snipaste_2018-09-21_00-23-22.png](https://www.whitecell.io/upload/attach/201809/_M4VUDGNDYQXEATR.png "Snipaste_2018-09-21_00-23-22.png")  
+![Snipaste_2018-09-23_15-46-23.png](https://whitecell.io/upload/attach/201809/151_JQMWJNPVWK4XN35.png "Snipaste_2018-09-23_15-46-23.png")  
 
 ## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
 
