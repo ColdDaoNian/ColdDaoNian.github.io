@@ -1,4 +1,4 @@
-# 思维导图 Mindjet MindManager 2019 v19.0.304 中文破解版【附注册码，支持后续更新】 # 
+# 思维导图 Mindjet MindManager 2019 v19.0.306 中文破解版【附注册码，支持后续更新】 # 
 
 **更新：最新版本已经完美破解**  
 
@@ -41,19 +41,19 @@ Windows Registry Editor Version 5.00
 ```txt
 Mindjet MindManager 2019
 
-Mindjet MindManager 2019 19.0.304 Multilingual
+Mindjet MindManager 2019 19.0.306 Multilingual
 
 Download
 
-Mindjet MindManager 2019 19.0.304 Multilingual
+Mindjet MindManager 2019 19.0.306 Multilingual
 
-Mindjet MindManager 2019 19.0.304 Multilingual.msi
+Mindjet MindManager 2019 19.0.306 Multilingual.msi
 
 Mindjet MindManager 2019.msi
 
-Mindjet MindManager 2019 19.0.304 Multilingual_64.msi
+Mindjet MindManager 2019 19.0.306 Multilingual_64.msi
 
-http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_304/64Bit/Mindjet MindManager 2019.msi
+http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_306/64Bit/Mindjet MindManager 2019.msi
 
 https://www.upload.ee/files/8971053/mindmanager.2019.19.0.x-patch.rar.html
 
@@ -67,17 +67,17 @@ MindManager 2019 19.0.x Patch (x64 / x86)
 
 https://www.upload.ee/files/8967892/mindmanager.2019.19.0.x.patch.rar.html
 
-Mindjet MindManager 2019 v19.0.300 with Keygen
+Mindjet MindManager 2019 v19.0.306 with Keygen
 
 https://www.upload.ee/files/8963293/Mindjet.MindManager.2019.19.0.29x-x86_x64-Patch.zip.html
 
 https://www.upload.ee/files/7702954/v18-KEYGEN-FFF-CORE.rar.html
 
-Mindjet MindManager 2019 v19.0.304 Win/ 11.0.160 macOS
+Mindjet MindManager 2019 v19.0.306 Win/ 11.2.111 macOS
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_2019_v19.0.304_Multilingual_x64_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software/Mindjet_MindManager_2019_v19.0.306_Multilingual_x64_Downloadly.ir.rar
 
-http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.1.160_macOS_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Software2/Mindjet_MindManager_11.2.111_macOS_Downloadly.ir.rar
 
 Password: www.downloadly.ir
 ```
@@ -114,7 +114,7 @@ https://www.mindjet.com/
 
 64位：  
 
-`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_304/64Bit/Mindjet MindManager 2019.msi`  
+`http://dwnld.mindjet.com/stubs/Builds/MindManager2019/19_0_306/64Bit/Mindjet MindManager 2019.msi`  
 
 破解补丁：  
 
@@ -130,7 +130,7 @@ https://www.mindjet.com/
 
 ![Snipaste_2018-09-23_15-46-23.png](https://whitecell.io/upload/attach/201809/151_JQMWJNPVWK4XN35.png "Snipaste_2018-09-23_15-46-23.png")  
 
-## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS #  
+## Mindjet MindManager 2018 18.2.110 Win / 11.0.160 macOS ##  
 
 ## 官网 ##  
 
