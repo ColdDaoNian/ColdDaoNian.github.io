@@ -7,6 +7,7 @@ VMware Workstation Pro 15.0.0 / 14.1.3 / 12.5.9 / 10.0.7 with Keygen
 VMware Workstation Pro 15.0.0 Build 10134415 – Windows x64  
 https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.0-10134415.exe  
 软件授权许可证密钥  
+
 ```
 VMware Workstation Pro 15 License Keys
 
