@@ -290,11 +290,11 @@ Active sessions
 
 ------
 
-作者 [@Mannix][1]     
-2018 年 10月 18日
+博客作者，文章总结者 [@Mannix][1]      
+2018 年 10 月 18 日
 
-参考文档作者 [@Rvn0xsy][2]     
-2017 年 08月 17日
+原始参考文档作者 [@Rvn0xsy][2]     
+2017 年 08 月 17 日
 
 [1]: http://mannix.top/
 [2]: https://payloads.online/archivers/2017-08-17/2

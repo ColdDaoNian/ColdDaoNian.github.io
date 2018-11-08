@@ -217,10 +217,10 @@ Active sessions
 
 ------
 
-作者 [@Mannix][1]     
-2018 年 10月 18日
+博客作者，文章总结者 [@Mannix][1]      
+2018 年 10 月 18 日
 
-参考文档 [@Creating Metasploit Payloads][2]     
+原始参考文档 [@Creating Metasploit Payloads][2]      
 
 [1]: http://mannix.top/
 [2]: https://netsec.ws/?p=331

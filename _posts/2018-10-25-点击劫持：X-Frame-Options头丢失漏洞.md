@@ -200,11 +200,11 @@ add_header X-Frame-Options SAMEORIGIN;
 
 ------
 
-作者 [@Mannix][1]     
-2018 年 10月 25日
+博客作者，文章总结者 [@Mannix][1]       
+2018 年 10 月 25 日
 
-参考文档作者 [@Rvn0xsy][2]     
-2018 年 04月 16日
+原始参考文档作者 [@Rvn0xsy][2]       
+2018 年 04 月 16 日
 
 [1]: http://mannix.top/
 [2]: https://payloads.online/archivers/2018-04-16/3
