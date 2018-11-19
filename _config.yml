@@ -107,6 +107,9 @@ friends: [
     },{
         title: "Maya66",
         href: "http://maya66.net.cn/"
+    },{
+        title: "必火WEB安全培训",
+        href: "http://xss.tv/"
     }
 ]
 theme: jekyll-theme-cayman
