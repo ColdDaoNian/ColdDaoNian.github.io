@@ -18,9 +18,9 @@ https://www.netsarang.com/products/xme_overview.html
 
 ![Snipaste_2018-10-20_02-20-47.png](https://whitecell.io/upload/attach/201810/151_5RNQ8WT4VD4M3H8.png "Snipaste_2018-10-20_02-20-47.png")
 
-比如我的下载地址是 `https://download.netsarang.com/801a6619/XmanagerPowerSuite-6.0.0009.exe`
+比如我的下载地址是 `https://cdn.netsarang.net/b8516424/XmanagerPowerSuite-6.0.0010r.exe`
 
-修改之后下载地址是 `https://cdn.netsarang.net/63b77b13/XmanagerPowerSuite-6.0.0008r.exe`
+修改之后下载地址是 `https://cdn.netsarang.net/b8516424/XmanagerPowerSuite-6.0.0010r.exe`
 
 这就是注册版文件的最新版本。
 
@@ -105,10 +105,10 @@ C:\Users\Foair\Desktop\Xmanager-keygen>Xmanager-keygen.py
 
 Keygen v1.4 Whit Fix Host + Register Online...
 
-Xmanager_PowerSuite_v6.0.0009r_Incl_Keygen_v1.4_DFoX_URET.rar
+Xmanager_PowerSuite_v6.0.0010r_Incl_Keygen_v1.4_DFoX_URET.rar
 
 ```txt
-https://www27.zippyshare.com/v/DXrPIrGJ/file.html
+https://www32.zippyshare.com/v/0AeJ5kzf/file.html
 ```
 
 该文件包含注册版 Xmanager Power Suit 6 和一个 8in1 算号器。
@@ -122,40 +122,40 @@ https://www27.zippyshare.com/v/DXrPIrGJ/file.html
 
 Latest Single Register Exe Installation File :
 
-* 1.Xmanager Power Suite 6 Build 0009
+* 1.Xmanager Power Suite 6 Build 0010r
 
 ```txt
-https://www27.zippyshare.com/v/DXrPIrGJ/file.html
+https://www32.zippyshare.com/v/9gejiejD/file.html
 ```
 
-* 2.Xmanager 6 Build 0095
+* 2.Xmanager 6 Build 0101r
 
 ```txt
-https://www27.zippyshare.com/v/Dcb35dmy/file.html
+https://www32.zippyshare.com/v/EhrsrJ1f/file.html
 ```
 
-* 3.Xshell Plus 6 Build 0009
+* 3.Xshell Plus 6 Build 0010r
 
 ```txt
-https://www27.zippyshare.com/v/s114ig7B/file.html
+https://www32.zippyshare.com/v/N7SSQsTS/file.html
 ```
 
-* 4.Xshell 6 Build 0101
+* 4.Xshell 6 Build 0107r
 
 ```txt
-https://www27.zippyshare.com/v/fiaj5S6g/file.html
+https://www32.zippyshare.com/v/9jdAZepo/file.html
 ```
 
-* 5.Xftp 6 Build 0095
+* 5.Xftp 6 Build 0101r
 
 ```txt
-https://www27.zippyshare.com/v/jvkn4gro/file.html
+https://www32.zippyshare.com/v/6VibW7q4/file.html
 ```
 
-* 6.Xlpd 6 Build 0092
+* 6.Xlpd 6 Build 0098r
 
 ```txt
-https://www27.zippyshare.com/v/HEKJY07O/file.html
+https://www32.zippyshare.com/v/wWrXX42k/file.html
 ```
 
 ---
@@ -171,32 +171,26 @@ GitHub 的 Python 程序中没有 Xshell Plus 的代码，因此可以使用上�
 官方下载地址：
 
 ```txt
-https://download.netsarang.com/801a6619/XmanagerPowerSuite-6.0.0009r.exe
-
-https://cdn.netsarang.net/801a6619/XmanagerPowerSuite-6.0.0009r.exe
-https://download.netsarang.com/801a6619/XmanagerPowerSuite-6.0.0009r.exe
-https://download.netsarang.com/801a6619/XshellPlus-6.0.0009r.exe
-https://cdn.netsarang.net/801a6619/Xshell-6.0.0101r.exe
-https://cdn.netsarang.net/801a6619/Xftp-6.0.0095r.exe
-https://cdn.netsarang.net/801a6619/Xmanager-6.0.0095r.exe
-https://cdn.netsarang.net/801a6619/Xlpd-6.0.0092r.exe
+https://cdn.netsarang.net/b8516424/XmanagerPowerSuite-6.0.0010r.exe
+https://cdn.netsarang.net/b8516424/Xmanager-6.0.0101r.exe
+https://cdn.netsarang.net/b8516424/Xshell-6.0.0107r.exe
+https://cdn.netsarang.net/b8516424/Xftp-6.0.0101r.exe
+https://cdn.netsarang.net/b8516424/Xlpd-6.0.0098r.exe
+https://download.netsarang.com/b8516424/XshellPlus-6.0.0010r.exe
 ```
 
 ------
 
 作者 [@Mannix][1]     
-2018 年 10月 20日
+2018 年 11月 24日
 
 参考文档 [Xmanager Power Suit 6 最新版注册][2]     
 2018 年 8月 15日
 
-参考文档 [Xmanager_PowerSuite_v6.0.0009r_Incl_Keygen_v1.4_DFoX_URET.rar][3]     
+参考文档 [Xmanager_PowerSuite_v6.0.0010r_Incl_Keygen_v1.4_DFoX_URET.rar][3]     
 2018 年 10月 19日
 
 [1]: http://mannix.top/
 [2]: https://tips.foair.me/post/how-to-get-latest-xmanager/
 [3]: https://github.com/DoubleLabyrinth/Xmanager-keygen/issues/2#issuecomment-411161975
-
-
-
 
